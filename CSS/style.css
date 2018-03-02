@@ -1,3 +1,17 @@
 body {
     background: purple;
 }
+
+table#chicken {
+color: yellow;
+font-style: italic;
+background: blue;
+}
+
+.duck {
+    font-size: 150%;
+}
+
+p {
+    background: orangered;
+}
